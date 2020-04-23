@@ -6,7 +6,11 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h3> this is my first react deployment on the aws</h3>
+      <h3> THIS IS HOME PAGE</h3>
+      <p>
+        MongoDB Atlas Search makes it easy to build simple, integrated search
+        capabilities on top of your data in the cloud
+      </p>
     </div>
   );
 }
